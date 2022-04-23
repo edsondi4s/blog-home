@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@import 'sass/partials/colors';
+@import 'sass/partials/typography';
+
+body{
+    width: 100%;
+    background-color: #050607;
+}
+
+@import 'sass/partials/layout';
