@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "category":"Tecnologia",
+      "title": "O guia definitivo sobre o  Blog",
+      "resume": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "author": "Fulano de tal",
+      "date": "Aug 2, 2020"
+    },
+    {
+      "id": 2,
+      "category":"Fotografia",
+      "title": "Quais as melhores câmeras em 2021?",
+      "resume": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "author": "Beltrano de tal",
+      "date": "Aug 3, 2020"
+    },
+    {
+      "id": 3,
+      "category":"Cinema",
+      "title": "Os 10 filmes com maior bilheteria",
+      "resume": "Lorem ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "author": "Ciclano de tal",
+      "date": "Aug 4, 2020"
+    }
+  ]
+}
